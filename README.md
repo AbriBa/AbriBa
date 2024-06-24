@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on my startup project... stay tuned to learn more about it! 
 - 🌱 I’m currently learning Python, JavaScript, HTML, CSS & React - Studying System Engineering at the National Technological University
+- ✨ I've experience developing and working in Python & FastAPI - PostgreSQL - Scrum Agile Methodology
 - 📫 How to reach me: abvates@gmail.com
   
 <!--
